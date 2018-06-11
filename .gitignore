@@ -13,3 +13,4 @@ crash.log
 # version control.
 #
 terraform.tfvars
+ip_address.txt
